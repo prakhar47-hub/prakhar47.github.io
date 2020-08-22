@@ -4,5 +4,5 @@ arrow.addEventListener('click', home);
 
 function home() {
  
-    window.location = "../home.html";
+    window.location = "../index.html";
    }
