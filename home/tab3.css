@@ -1,0 +1,86 @@
+.section{
+    flex-direction: column;
+}
+
+.navbar{
+    margin: 0px -267px
+    
+}
+
+header.sticky .navbar{
+    margin: 0px -267px
+}
+/* #contact{
+    margin: 0px -12px;
+} */
+
+.lists{
+    /* margin: -46px; */
+    padding: 14px;
+    /* font-size: 0.7rem;s */
+    
+}
+.sec{
+    margin-top: 150px;
+}
+.sec h1{
+    margin-left: 72px;
+}
+
+.sec p{
+    left: 68px;
+    margin: -41px;
+    top: 44px;
+    font-size: 37px;
+}
+
+#sec2{
+    margin-top: 103px;
+}
+#sec2 figure img{
+    width: 137%;
+    margin-left: 13px;
+}
+
+#sec3{
+    margin-top: -44px;
+    margin: 1px;
+}
+.service{
+    width: 100%;
+    margin-left: 70px;
+    margin-top: 71px;
+}
+.service h1{
+    margin: 37px;
+}
+.service p{
+    font-size: 19px;
+}
+/* Work */
+.work{
+    margin-left: 70px;
+    grid-template-columns: 385px;
+}
+
+
+#block2{
+    background-size: 142%;
+    background-position: 22% 50%;
+}
+
+#block3{
+    background-size: 116%;
+    background-position: 79% 84%;
+}
+
+#block4{
+    background-size: 122%;
+}
+.footer{
+    width: 144%;
+}
+
+.ul1{
+    left: 179px;
+}

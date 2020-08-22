@@ -1,0 +1,31 @@
+
+body{
+    overflow-x: hidden;
+}
+
+
+.nav{
+    padding-top: 6px;
+    padding-left: 0px;
+
+}
+
+
+.main{
+    flex-direction:column;
+    margin-top: 166px;
+    text-align: center;
+    width: 87%;
+}
+
+.about{
+    width: 100%;
+}
+
+.cont{
+    width: 100%;
+}
+
+.btn{
+    margin: 14px 0px;
+}
